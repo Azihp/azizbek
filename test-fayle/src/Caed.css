@@ -1,0 +1,36 @@
+.card {
+    background: #FFFFFF99;
+    height: 434px;
+    width: 385px;
+    border-radius: 15px;
+
+
+}
+
+.card_img {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.card_h1 {
+    color: #752B81;
+
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+
+.card_p {
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-top: 15px;
+    margin-right: 40px;
+font-size: 18px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+}

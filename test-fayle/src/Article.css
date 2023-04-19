@@ -1,0 +1,12 @@
+.article_name{
+    display: flex;
+    justify-content: center;
+}
+.article_h1{
+    color: #752B81;
+    font-weight: 700;
+    font-size: 30px;
+}
+.article_span{
+    margin-left: 300px;
+}
